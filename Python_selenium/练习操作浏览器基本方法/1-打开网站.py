@@ -6,6 +6,9 @@
 
 """
 打开网站
+1.第一步：从selenium里面导入webdriver模块
+2.打开Firefox浏览器（Ie和Chrome对应下面的）
+3.打开百度网址
 """
 
 # 导入selenium的webdriver模块
