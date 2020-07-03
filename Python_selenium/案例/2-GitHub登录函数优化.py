@@ -41,8 +41,6 @@ def logout(driver):
     退出登录
     """
     time.sleep(2)
-    # # driver.find_element_by_xpath("/html/body/div[1]/header/div[7]/details/summary/img").click()
-    # time.sleep(1)
     driver.find_element_by_xpath("/html/body/div[1]/header/div[7]/details/details-menu/form/button").click()
     driver.quit()
 
