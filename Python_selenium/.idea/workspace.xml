@@ -15,6 +15,16 @@
       <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/9-js处理内嵌div滚动条.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/9-js处理内嵌div滚动条.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/1-js处理多窗口.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/10-元素定位参数化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/2-文件上传（send_keys）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/3-获取百度输入联想词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/4-判断元素存在.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/5-爬页面源码（page_source）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/6-显式等待（WebDriverWait）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/7-cookie相关操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/8-判断title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/9-登录参数化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/1-判断文本（text_to_be_present_in_element）.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unittest_test/report/2020-05-14 17_04_37report.html" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_test/report/2020-05-14 17_04_37report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/2-iframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/2-iframe.py" afterDir="false" />
@@ -37,44 +47,6 @@
     <SUITE FILE_PATH="coverage/Python_selenium$1_handle.coverage" NAME="1-多窗口、句柄handle Coverage Results" MODIFIED="1593788874884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
     <SUITE FILE_PATH="coverage/Python_selenium$2_iframe.coverage" NAME="2-iframe Coverage Results" MODIFIED="1593845843340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
     <SUITE FILE_PATH="coverage/Python_selenium$7_.coverage" NAME="7-富文本（自动发帖） Coverage Results" MODIFIED="1593860179653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-166857352">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="49" />
-          <entry key="py" value="2607" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="49" />
-          <entry key="Python" value="2607" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="5" />
-          <entry key="py" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="5" />
-          <entry key="Python" value="12" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
@@ -123,14 +95,18 @@
         <option value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.html" />
         <option value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.py" />
         <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/1-js处理多窗口.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/2-文件上传（send_keys）.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/3-获取百度输入联想词.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/4-判断元素存在.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/5-爬页面源码（page_source）.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/6-显式等待（WebDriverWait）.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/7-cookie相关操作.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/8-判断title.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/9-登录参数化.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/10-元素定位参数化.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/1-判断文本（text_to_be_present_in_element）.py" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -144,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,12 +130,18 @@
             <path>
               <item name="Python_selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="picture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_selenium" type="462c0819:PsiDirectoryNode" />
               <item name="练习操作浏览器基本方法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,8 +171,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1-js处理多窗口">
-    <configuration name="1-js处理多窗口" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1-判断文本（text_to_be_present_in_element）">
+    <configuration name="1-判断文本（text_to_be_present_in_element）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/1-判断文本（text_to_be_present_in_element）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10-元素定位参数化" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,7 +207,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/1-js处理多窗口.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/10-元素定位参数化.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-定位table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6-显式等待（WebDriverWait）" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,12 +224,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/6-显式等待（WebDriverWait）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7-富文本（自动发帖）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7-cookie相关操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,12 +246,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/7-富文本（自动发帖）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/7-cookie相关操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-js处理日历控件（修改readonly属性）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8-判断title" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,34 +268,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/8-js处理日历控件（修改readonly属性）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9-js处理内嵌div滚动条" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/9-js处理内嵌div滚动条.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/8-判断title.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,19 +283,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.7-富文本（自动发帖）" />
-      <item itemvalue="Python.8-js处理日历控件（修改readonly属性）" />
-      <item itemvalue="Python.9-js处理内嵌div滚动条" />
-      <item itemvalue="Python.10-定位table" />
-      <item itemvalue="Python.1-js处理多窗口" />
+      <item itemvalue="Python.6-显式等待（WebDriverWait）" />
+      <item itemvalue="Python.7-cookie相关操作" />
+      <item itemvalue="Python.8-判断title" />
+      <item itemvalue="Python.10-元素定位参数化" />
+      <item itemvalue="Python.1-判断文本（text_to_be_present_in_element）" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1-js处理多窗口" />
-        <item itemvalue="Python.10-定位table" />
-        <item itemvalue="Python.9-js处理内嵌div滚动条" />
-        <item itemvalue="Python.8-js处理日历控件（修改readonly属性）" />
-        <item itemvalue="Python.7-富文本（自动发帖）" />
+        <item itemvalue="Python.1-判断文本（text_to_be_present_in_element）" />
+        <item itemvalue="Python.10-元素定位参数化" />
+        <item itemvalue="Python.8-判断title" />
+        <item itemvalue="Python.7-cookie相关操作" />
+        <item itemvalue="Python.6-显式等待（WebDriverWait）" />
       </list>
     </recent_temporary>
   </component>
@@ -330,6 +311,7 @@
       <updated>1593675508692</updated>
       <workItem from="1593675512175" duration="269000" />
       <workItem from="1593676436827" duration="21697000" />
+      <workItem from="1594003754792" duration="12788000" />
     </task>
     <task id="LOCAL-00001" summary="登录案例-1">
       <created>1593694219186</created>
@@ -349,17 +331,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21966000" />
+    <option name="totallyTimeSpent" value="34754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20574887" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2246596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7865353" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29180327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,7 +350,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -380,22 +362,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="登录案例-1" />
     <MESSAGE value="登录案例使用函数优化" />
     <option name="LAST_COMMIT_MESSAGE" value="登录案例使用函数优化" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_selenium$6_.coverage" NAME="6-截屏 Coverage Results" MODIFIED="1593683234026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
+    <SUITE FILE_PATH="coverage/Python_selenium$2_send_keys.coverage" NAME="2-文件上传（send_keys） Coverage Results" MODIFIED="1594005529793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
     <SUITE FILE_PATH="coverage/Python_selenium$1_.coverage" NAME="1-登录案例 Coverage Results" MODIFIED="1593693297255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/案例" />
-    <SUITE FILE_PATH="coverage/Python_selenium$7_.coverage" NAME="7-退出 Coverage Results" MODIFIED="1593683425758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
-    <SUITE FILE_PATH="coverage/Python_selenium$2_GitHub.coverage" NAME="2-GitHub登录函数优化 Coverage Results" MODIFIED="1593696165249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/案例" />
+    <SUITE FILE_PATH="coverage/Python_selenium$4_.coverage" NAME="4-判断元素存在 Coverage Results" MODIFIED="1594013952165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
     <SUITE FILE_PATH="coverage/Python_selenium$9_.coverage" NAME="9-定位一组元素 Coverage Results" MODIFIED="1593748148161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
     <SUITE FILE_PATH="coverage/Python_selenium$.coverage" NAME="键盘和鼠标操作 Coverage Results" MODIFIED="1593757193481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
     <SUITE FILE_PATH="coverage/Python_selenium$1_handle.coverage" NAME="1-多窗口、句柄handle Coverage Results" MODIFIED="1593758992572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
+    <SUITE FILE_PATH="coverage/Python_selenium$3_.coverage" NAME="3-获取百度输入联想词 Coverage Results" MODIFIED="1594006766527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$6_.coverage" NAME="6-截屏 Coverage Results" MODIFIED="1593683234026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
+    <SUITE FILE_PATH="coverage/Python_selenium$7_.coverage" NAME="7-退出 Coverage Results" MODIFIED="1593683425758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
+    <SUITE FILE_PATH="coverage/Python_selenium$6_WebDriverWait.coverage" NAME="6-显式等待（WebDriverWait） Coverage Results" MODIFIED="1594016714582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$10_.coverage" NAME="10-元素定位参数化 Coverage Results" MODIFIED="1594028313808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$2_GitHub.coverage" NAME="2-GitHub登录函数优化 Coverage Results" MODIFIED="1593696165249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/案例" />
+    <SUITE FILE_PATH="coverage/Python_selenium$1_text_to_be_present_in_element.coverage" NAME="1-判断文本（text_to_be_present_in_element） Coverage Results" MODIFIED="1594030282369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
+    <SUITE FILE_PATH="coverage/Python_selenium$8_title.coverage" NAME="8-判断title Coverage Results" MODIFIED="1594026419054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$5_page_source.coverage" NAME="5-爬页面源码（page_source） Coverage Results" MODIFIED="1594015791666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$7_cookie.coverage" NAME="7-cookie相关操作 Coverage Results" MODIFIED="1594024319695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/1-打开网站.py">
@@ -540,17 +528,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/7-富文本（自动发帖）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/5-JS处理滚动条.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#107#137#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,22 +549,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding>
-            <element signature="e#108#138#0" expanded="true" />
+            <element signature="e#113#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -588,9 +558,130 @@
     <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/1-js处理多窗口.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
             <element signature="e#107#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#108#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/3-获取百度输入联想词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/2-文件上传（send_keys）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/4-判断元素存在.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/5-爬页面源码（page_source）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/6-显式等待（WebDriverWait）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/7-富文本（自动发帖）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="19" column="63" lean-forward="true" selection-start-line="12" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/9-登录参数化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#103#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/8-判断title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/7-cookie相关操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/21-30/10-元素定位参数化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/1-判断文本（text_to_be_present_in_element）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="e#103#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
