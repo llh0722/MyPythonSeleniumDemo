@@ -2,32 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f6fdfe-8819-4434-9df0-c8bf01b9cba9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/10-定位table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/3-select下拉框.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/4-alert、confirm、prompt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/4-alert、confirm、prompt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/5-JS处理滚动条.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/6-radio&amp;checkbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/6-单选框和复选框（radiobox、checkbox）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/7-富文本（自动发帖）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/8-js处理日历控件（修改readonly属性）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/9-js处理内嵌div滚动条.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/9-js处理内嵌div滚动条.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/1-js处理多窗口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/10-元素定位参数化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/2-文件上传（send_keys）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/3-获取百度输入联想词.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/4-判断元素存在.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/5-爬页面源码（page_source）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/6-显式等待（WebDriverWait）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/7-cookie相关操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/8-判断title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/9-登录参数化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/1-判断文本（text_to_be_present_in_element）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/run_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_case/blog_home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_case/blog_home/test_home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_case/blog_login/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_case/blog_login/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_case/blog_set/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_case/blog_set/test_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_pictures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_blogs/test_report/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/10-数据驱动/数据驱动-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/2-unittest简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/3-博客案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/4-unittest执行顺序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/baidu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/baidu/test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/baidu/test_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/blog/test_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/blog/test_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/report/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/run_all_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器/classmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器/实例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/7-抛出异常.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/8-读取Excel数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/9-Excel读取数据的封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/41-50/1-异常后截图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/41-50/2-截取某个元素的图.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittest_test/report/2020-05-14 17_04_37report.html" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_test/report/2020-05-14 17_04_37report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/2-iframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习操作浏览器基本方法/11-20/2-iframe.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +56,20 @@
     <SUITE FILE_PATH="coverage/Python_selenium$7_.coverage" NAME="7-富文本（自动发帖） Coverage Results" MODIFIED="1593860179653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/41-50/2-截取某个元素的图.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#104#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,14 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/打开网站.py" />
-        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/设置休眠.py" />
-        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/页面刷新.py" />
-        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/前进和后退.py" />
-        <option value="$PROJECT_DIR$/设置浏览器窗口.py" />
-        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/设置浏览器窗口.py" />
-        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/6-截屏.py" />
-        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/7-退出.py" />
         <option value="$PROJECT_DIR$/练习操作浏览器基本方法/8-元素定位.py" />
         <option value="$PROJECT_DIR$/案例/1-登录案例.py" />
         <option value="$PROJECT_DIR$/案例/2-GitHub登录函数优化.py" />
@@ -105,6 +117,25 @@
         <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/9-登录参数化.py" />
         <option value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/10-元素定位参数化.py" />
         <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/1-判断文本（text_to_be_present_in_element）.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/2-unittest简介.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/3-博客案例.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/4-unittest执行顺序.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行/run_all_test.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行/case/baidu/test_01.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器/classmethod.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器/实例.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/7-抛出异常.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/8-读取Excel数据.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/9-Excel读取数据的封装.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/10-数据驱动/数据驱动-1.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/41-50/1-异常后截图.py" />
+        <option value="$PROJECT_DIR$/test_blogs/run_main.py" />
+        <option value="$PROJECT_DIR$/test_blogs/test_case/blog_home/test_home.py" />
+        <option value="$PROJECT_DIR$/test_blogs/test_case/blog_login/test_login.py" />
+        <option value="$PROJECT_DIR$/test_blogs/test_case/blog_set/test_set.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/run_all_test.py" />
+        <option value="D:/testSoft/Python37/Lib/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/练习操作浏览器基本方法/41-50/2-截取某个元素的图.py" />
       </list>
     </option>
   </component>
@@ -130,12 +161,13 @@
             <path>
               <item name="Python_selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="picture" type="462c0819:PsiDirectoryNode" />
+              <item name="练习操作浏览器基本方法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_selenium" type="462c0819:PsiDirectoryNode" />
               <item name="练习操作浏览器基本方法" type="462c0819:PsiDirectoryNode" />
+              <item name="41-50" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,12 +180,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\PycharmProjects\PythonSelenium\MyPythonSeleniumDemo\Python_selenium\练习操作浏览器基本方法\31-40" />
+      <recent name="D:\project\PycharmProjects\PythonSelenium\MyPythonSeleniumDemo\Python_selenium\练习操作浏览器基本方法\31-40\5-unittest批量执行\case\blog" />
+      <recent name="D:\project\PycharmProjects\PythonSelenium\MyPythonSeleniumDemo\Python_selenium\练习操作浏览器基本方法\31-40\5-unittest批量执行\case\baidu" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\PycharmProjects\PythonSelenium\MyPythonSeleniumDemo\Python_selenium" />
       <recent name="F:\PycharmProjects\loveYou\MyPythonSeleniumDemo\Python_selenium\练习操作浏览器基本方法\11-20" />
       <recent name="D:\project\PycharmProjects\PythonSelenium\MyPythonSeleniumDemo\Python_selenium\练习操作浏览器基本方法\1-10" />
       <recent name="D:\project\PycharmProjects\PythonSelenium\MyPythonSeleniumDemo\Python_selenium\练习操作浏览器基本方法" />
@@ -171,8 +210,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1-判断文本（text_to_be_present_in_element）">
-    <configuration name="1-判断文本（text_to_be_present_in_element）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.run_all_test">
+    <configuration name="7-抛出异常" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,7 +224,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/1-判断文本（text_to_be_present_in_element）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/7-抛出异常.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-元素定位参数化" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8-读取Excel数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,12 +241,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/10-元素定位参数化.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/8-读取Excel数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-显式等待（WebDriverWait）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9-Excel读取数据的封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/6-显式等待（WebDriverWait）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/9-Excel读取数据的封装.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7-cookie相关操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run_all_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,12 +285,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/7-cookie相关操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/run_all_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,42 +299,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-判断title" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for 1-异常后截图.BaiduTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python_selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习操作浏览器基本方法/41-50" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习操作浏览器基本方法/21-30/8-判断title.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;1-异常后截图.BaiduTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.6-显式等待（WebDriverWait）" />
-      <item itemvalue="Python.7-cookie相关操作" />
-      <item itemvalue="Python.8-判断title" />
-      <item itemvalue="Python.10-元素定位参数化" />
-      <item itemvalue="Python.1-判断文本（text_to_be_present_in_element）" />
+      <item itemvalue="Python.7-抛出异常" />
+      <item itemvalue="Python.8-读取Excel数据" />
+      <item itemvalue="Python.9-Excel读取数据的封装" />
+      <item itemvalue="Python tests.Unittests for 1-异常后截图.BaiduTest" />
+      <item itemvalue="Python.run_all_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1-判断文本（text_to_be_present_in_element）" />
-        <item itemvalue="Python.10-元素定位参数化" />
-        <item itemvalue="Python.8-判断title" />
-        <item itemvalue="Python.7-cookie相关操作" />
-        <item itemvalue="Python.6-显式等待（WebDriverWait）" />
+        <item itemvalue="Python.run_all_test" />
+        <item itemvalue="Python tests.Unittests for 1-异常后截图.BaiduTest" />
+        <item itemvalue="Python.9-Excel读取数据的封装" />
+        <item itemvalue="Python.8-读取Excel数据" />
+        <item itemvalue="Python.7-抛出异常" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +343,7 @@
       <updated>1593675508692</updated>
       <workItem from="1593675512175" duration="269000" />
       <workItem from="1593676436827" duration="21697000" />
-      <workItem from="1594003754792" duration="12788000" />
+      <workItem from="1594003754792" duration="33525000" />
     </task>
     <task id="LOCAL-00001" summary="登录案例-1">
       <created>1593694219186</created>
@@ -327,11 +359,50 @@
       <option name="project" value="LOCAL" />
       <updated>1593696215985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020-07-06-01">
+      <created>1594031870789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594031870789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_3-博客案例_Blogs - 2020.07.07 at 10h 57m 57s.xml">
+      <configuration name="Unittests for 3-博客案例.Blogs" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_4-unittest执行顺序_SxTest - 2020.07.07 at 11h 08m 21s.xml">
+      <configuration name="Unittests for 4-unittest执行顺序.SxTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_classmethod_Test_test_01 - 2020.07.07 at 12h 03m 24s.xml">
+      <configuration name="Unittests for classmethod.Test.test_01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_classmethod_py - 2020.07.07 at 12h 03m 36s.xml">
+      <configuration name="Unittests in classmethod.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_classmethod_py - 2020.07.07 at 12h 05m 08s.xml">
+      <configuration name="Unittests in classmethod.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_实例_BlogsHome - 2020.07.07 at 14h 19m 08s.xml">
+      <configuration name="Unittests for 实例.BlogsHome" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1-异常后截图_BaiduTest - 2020.07.07 at 17h 00m 17s.xml">
+      <configuration name="Unittests for 1-异常后截图.BaiduTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1-异常后截图_BaiduTest - 2020.07.07 at 17h 02m 54s.xml">
+      <configuration name="Unittests for 1-异常后截图.BaiduTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1-异常后截图_BaiduTest - 2020.07.07 at 17h 03m 56s.xml">
+      <configuration name="Unittests for 1-异常后截图.BaiduTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_1-异常后截图_BaiduTest - 2020.07.07 at 17h 06m 53s.xml">
+      <configuration name="Unittests for 1-异常后截图.BaiduTest" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34754000" />
+    <option name="totallyTimeSpent" value="55491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -340,16 +411,16 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29180327" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.352459" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -358,6 +429,29 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2246596" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -365,113 +459,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="登录案例-1" />
     <MESSAGE value="登录案例使用函数优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="登录案例使用函数优化" />
+    <MESSAGE value="2020-07-06-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-07-06-01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_selenium$2_send_keys.coverage" NAME="2-文件上传（send_keys） Coverage Results" MODIFIED="1594005529793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
-    <SUITE FILE_PATH="coverage/Python_selenium$1_.coverage" NAME="1-登录案例 Coverage Results" MODIFIED="1593693297255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/案例" />
+    <SUITE FILE_PATH="coverage/Python_selenium$run_all_test.coverage" NAME="run_all_test Coverage Results" MODIFIED="1594117616718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告" />
+    <SUITE FILE_PATH="coverage/Python_selenium$Unittests_for_2_unittest_MathTestCase.coverage" NAME="Unittests for 2-unittest简介.MathTestCase Coverage Results" MODIFIED="1594089988455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
     <SUITE FILE_PATH="coverage/Python_selenium$4_.coverage" NAME="4-判断元素存在 Coverage Results" MODIFIED="1594013952165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$Unittests_for_classmethod_Test_test_01.coverage" NAME="Unittests for classmethod.Test.test_01 Coverage Results" MODIFIED="1594094604238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器" />
+    <SUITE FILE_PATH="coverage/Python_selenium$Unittests_in_classmethod_py.coverage" NAME="Unittests in classmethod.py Coverage Results" MODIFIED="1594094708247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器" />
     <SUITE FILE_PATH="coverage/Python_selenium$9_.coverage" NAME="9-定位一组元素 Coverage Results" MODIFIED="1593748148161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
     <SUITE FILE_PATH="coverage/Python_selenium$.coverage" NAME="键盘和鼠标操作 Coverage Results" MODIFIED="1593757193481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
-    <SUITE FILE_PATH="coverage/Python_selenium$1_handle.coverage" NAME="1-多窗口、句柄handle Coverage Results" MODIFIED="1593758992572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
-    <SUITE FILE_PATH="coverage/Python_selenium$3_.coverage" NAME="3-获取百度输入联想词 Coverage Results" MODIFIED="1594006766527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
-    <SUITE FILE_PATH="coverage/Python_selenium$6_.coverage" NAME="6-截屏 Coverage Results" MODIFIED="1593683234026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
-    <SUITE FILE_PATH="coverage/Python_selenium$7_.coverage" NAME="7-退出 Coverage Results" MODIFIED="1593683425758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
-    <SUITE FILE_PATH="coverage/Python_selenium$6_WebDriverWait.coverage" NAME="6-显式等待（WebDriverWait） Coverage Results" MODIFIED="1594016714582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$7_.coverage" NAME="7-抛出异常 Coverage Results" MODIFIED="1594103599206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
+    <SUITE FILE_PATH="coverage/Python_selenium$8_Excel.coverage" NAME="8-读取Excel数据 Coverage Results" MODIFIED="1594109060536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
+    <SUITE FILE_PATH="coverage/Python_selenium$Unittests_for_1__BaiduTest.coverage" NAME="Unittests for 1-异常后截图.BaiduTest Coverage Results" MODIFIED="1594112798159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/41-50" />
     <SUITE FILE_PATH="coverage/Python_selenium$10_.coverage" NAME="10-元素定位参数化 Coverage Results" MODIFIED="1594028313808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
-    <SUITE FILE_PATH="coverage/Python_selenium$2_GitHub.coverage" NAME="2-GitHub登录函数优化 Coverage Results" MODIFIED="1593696165249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/案例" />
+    <SUITE FILE_PATH="coverage/Python_selenium$9_Excel.coverage" NAME="9-Excel读取数据的封装 Coverage Results" MODIFIED="1594110172120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
     <SUITE FILE_PATH="coverage/Python_selenium$1_text_to_be_present_in_element.coverage" NAME="1-判断文本（text_to_be_present_in_element） Coverage Results" MODIFIED="1594030282369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
     <SUITE FILE_PATH="coverage/Python_selenium$8_title.coverage" NAME="8-判断title Coverage Results" MODIFIED="1594026419054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
     <SUITE FILE_PATH="coverage/Python_selenium$5_page_source.coverage" NAME="5-爬页面源码（page_source） Coverage Results" MODIFIED="1594015791666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$1_.coverage" NAME="1-登录案例 Coverage Results" MODIFIED="1593693297255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/案例" />
+    <SUITE FILE_PATH="coverage/Python_selenium$1_handle.coverage" NAME="1-多窗口、句柄handle Coverage Results" MODIFIED="1593758992572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/11-20" />
+    <SUITE FILE_PATH="coverage/Python_selenium$3_.coverage" NAME="3-获取百度输入联想词 Coverage Results" MODIFIED="1594006766527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$6_.coverage" NAME="6-截屏 Coverage Results" MODIFIED="1593683234026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法" />
+    <SUITE FILE_PATH="coverage/Python_selenium$Unittests_for_3__Blogs.coverage" NAME="Unittests for 3-博客案例.Blogs Coverage Results" MODIFIED="1594090664822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
+    <SUITE FILE_PATH="coverage/Python_selenium$Unittests_for__BlogsHome.coverage" NAME="Unittests for 实例.BlogsHome Coverage Results" MODIFIED="1594102737287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器" />
+    <SUITE FILE_PATH="coverage/Python_selenium$6_WebDriverWait.coverage" NAME="6-显式等待（WebDriverWait） Coverage Results" MODIFIED="1594016714582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$2_GitHub.coverage" NAME="2-GitHub登录函数优化 Coverage Results" MODIFIED="1593696165249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/案例" />
     <SUITE FILE_PATH="coverage/Python_selenium$7_cookie.coverage" NAME="7-cookie相关操作 Coverage Results" MODIFIED="1594024319695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/21-30" />
+    <SUITE FILE_PATH="coverage/Python_selenium$Unittests_for_4_unittest_SxTest.coverage" NAME="Unittests for 4-unittest执行顺序.SxTest Coverage Results" MODIFIED="1594091301181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习操作浏览器基本方法/31-40" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/1-打开网站.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" selection-start-line="13" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/2-设置休眠.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" selection-start-line="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/3-页面刷新.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/4-前进和后退.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/5-设置浏览器窗口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picture/test-1.png" />
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/6-截屏.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/7-退出.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/8-元素定位.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/1-GitHub登录案例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="6" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/2-GitHub登录函数优化.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/9-定位一组元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/testSoft/Python37/Lib/site-packages/selenium/webdriver/remote/switch_to.py" />
-    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/10-键盘和鼠标操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/11-20/2-iframe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -682,6 +701,189 @@
           <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
           <folding>
             <element signature="e#103#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/2-unittest简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/3-博客案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/4-unittest执行顺序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/baidu/test_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/blog/test_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/blog/test_04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/case/baidu/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器/实例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/6-unittest装饰器/classmethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/7-抛出异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#107#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/8-读取Excel数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="34" selection-start-line="9" selection-start-column="27" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/testSoft/Python37/Lib/site-packages/xlrd2-1.2.8-py3.7.egg/xlrd2/sheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="592" selection-start-line="592" selection-end-line="592" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/9-Excel读取数据的封装.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/1-10/6-截屏.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/testSoft/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture20200707.17.03.53.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_blogs/test_case/blog_set/test_set.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_blogs/test_case/blog_login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_blogs/test_case/blog_home/test_home.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_blogs/run_main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/41-50/1-异常后截图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+          <folding>
+            <element signature="e#103#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/10-数据驱动/数据驱动-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/report/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <folding>
+            <element signature="e#1778#53377#2" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#63999#64005#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#66938#66944#1" expanded="true" />
+            <element signature="e#66958#66964#1" expanded="true" />
+            <element signature="e#67080#67086#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/testSoft/Python37/Lib/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9174">
+          <caret line="984" selection-start-line="984" selection-end-line="984" />
+          <folding>
+            <element signature="e#3444#3459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/31-40/5-unittest批量执行and生成测试报告/run_all_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习操作浏览器基本方法/41-50/2-截取某个元素的图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#104#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
